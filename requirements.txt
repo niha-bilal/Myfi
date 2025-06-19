@@ -1,0 +1,9 @@
+torch
+transformers
+gradio
+pandas
+numpy
+langchain
+langchain-community
+langchain-ollama
+langdetect

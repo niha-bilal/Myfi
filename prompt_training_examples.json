@@ -1,0 +1,1314 @@
+[
+  {
+    "text": "You guys provide EMI option?",
+    "intent": "EMI"
+  },
+  {
+    "text": "Do you offer Zero Percent EMI payment options?",
+    "intent": "EMI"
+  },
+  {
+    "text": "0% EMI.",
+    "intent": "EMI"
+  },
+  {
+    "text": "EMI",
+    "intent": "EMI"
+  },
+  {
+    "text": "I want in installment",
+    "intent": "EMI"
+  },
+  {
+    "text": "I want it on 0% interest",
+    "intent": "EMI"
+  },
+  {
+    "text": "How to get in EMI",
+    "intent": "EMI"
+  },
+  {
+    "text": "what about emi options",
+    "intent": "EMI"
+  },
+  {
+    "text": "I need emi payment.",
+    "intent": "EMI"
+  },
+  {
+    "text": "How to EMI",
+    "intent": "EMI"
+  },
+  {
+    "text": "I want to buy on EMI",
+    "intent": "EMI"
+  },
+  {
+    "text": "I want to buy this in installments",
+    "intent": "EMI"
+  },
+  {
+    "text": "0% Emi",
+    "intent": "EMI"
+  },
+  {
+    "text": "Down payments",
+    "intent": "EMI"
+  },
+  {
+    "text": "Installments",
+    "intent": "EMI"
+  },
+  {
+    "text": "How about Paisa finance",
+    "intent": "EMI"
+  },
+  {
+    "text": "Paisa finance service available",
+    "intent": "EMI"
+  },
+  {
+    "text": "What is minimum down payment",
+    "intent": "EMI"
+  },
+  {
+    "text": "Paisa Finance is available",
+    "intent": "EMI"
+  },
+  {
+    "text": "Do you accept Paisa EMI card",
+    "intent": "EMI"
+  },
+  {
+    "text": "Can we buy through Paisa finance",
+    "intent": "EMI"
+  },
+  {
+    "text": "EMI Option",
+    "intent": "EMI"
+  },
+  {
+    "text": "Paisa Finance",
+    "intent": "EMI"
+  },
+  {
+    "text": "No cost EMI is available?",
+    "intent": "EMI"
+  },
+  {
+    "text": "Is EMI available",
+    "intent": "EMI"
+  },
+  {
+    "text": "COD option is availble?",
+    "intent": "COD"
+  },
+  {
+    "text": "Do you offer COD to my pincode?",
+    "intent": "COD"
+  },
+  {
+    "text": "Can I do COD?",
+    "intent": "COD"
+  },
+  {
+    "text": "COD",
+    "intent": "COD"
+  },
+  {
+    "text": "Is it possible to COD",
+    "intent": "COD"
+  },
+  {
+    "text": "Cash on delivery is acceptable?",
+    "intent": "COD"
+  },
+  {
+    "text": "Can pay later on delivery",
+    "intent": "COD"
+  },
+  {
+    "text": "DO you have COD option",
+    "intent": "COD"
+  },
+  {
+    "text": "Can it deliver by COD",
+    "intent": "COD"
+  },
+  {
+    "text": "Is COD option available",
+    "intent": "COD"
+  },
+  {
+    "text": "Can I get COD option?",
+    "intent": "COD"
+  },
+  {
+    "text": "Cash on delivery is available",
+    "intent": "COD"
+  },
+  {
+    "text": "Features of Ortho mattress",
+    "intent": "ORTHO_FEATURES"
+  },
+  {
+    "text": "What are the key features of the SOF Ortho mattress",
+    "intent": "ORTHO_FEATURES"
+  },
+  {
+    "text": "SOF ortho",
+    "intent": "ORTHO_FEATURES"
+  },
+  {
+    "text": "Ortho mattress",
+    "intent": "ORTHO_FEATURES"
+  },
+  {
+    "text": "Ortho features",
+    "intent": "ORTHO_FEATURES"
+  },
+  {
+    "text": "ortho",
+    "intent": "ORTHO_FEATURES"
+  },
+  {
+    "text": "Tell me about SOF Ortho mattress",
+    "intent": "ORTHO_FEATURES"
+  },
+  {
+    "text": "Have a back problem",
+    "intent": "ORTHO_FEATURES"
+  },
+  {
+    "text": "I have back pain issue",
+    "intent": "ORTHO_FEATURES"
+  },
+  {
+    "text": "Back Pain",
+    "intent": "ORTHO_FEATURES"
+  },
+  {
+    "text": "Is it orthopaedic",
+    "intent": "ORTHO_FEATURES"
+  },
+  {
+    "text": "Neck pain and back pain",
+    "intent": "ORTHO_FEATURES"
+  },
+  {
+    "text": "back ache issue",
+    "intent": "ORTHO_FEATURES"
+  },
+  {
+    "text": "I m looking mattress for slip disc problem",
+    "intent": "ORTHO_FEATURES"
+  },
+  {
+    "text": "Do we have anything for backache",
+    "intent": "ORTHO_FEATURES"
+  },
+  {
+    "text": "I am cervical and Lombard section problem",
+    "intent": "ORTHO_FEATURES"
+  },
+  {
+    "text": "Is there orthopedic mattress available",
+    "intent": "ORTHO_FEATURES"
+  },
+  {
+    "text": "What are the key features of the SOF Ergo mattress",
+    "intent": "ERGO_FEATURES"
+  },
+  {
+    "text": "Features of Ergo mattress",
+    "intent": "ERGO_FEATURES"
+  },
+  {
+    "text": "SOF ergo",
+    "intent": "ERGO_FEATURES"
+  },
+  {
+    "text": "Ergo mattress",
+    "intent": "ERGO_FEATURES"
+  },
+  {
+    "text": "Ergo features",
+    "intent": "ERGO_FEATURES"
+  },
+  {
+    "text": "Ergo",
+    "intent": "ERGO_FEATURES"
+  },
+  {
+    "text": "Tell me about SOF Ergo mattress",
+    "intent": "ERGO_FEATURES"
+  },
+  {
+    "text": "What about ergo",
+    "intent": "ERGO_FEATURES"
+  },
+  {
+    "text": "What is responsive foam",
+    "intent": "ERGO_FEATURES"
+  },
+  {
+    "text": "SOF ergo features",
+    "intent": "ERGO_FEATURES"
+  },
+  {
+    "text": "Does this have ergonomic support?",
+    "intent": "ERGO_FEATURES"
+  },
+  {
+    "text": "What is the difference between the Ergo & Ortho variants",
+    "intent": "COMPARISON"
+  },
+  {
+    "text": "Difference between Ergo & Ortho Mattress",
+    "intent": "COMPARISON"
+  },
+  {
+    "text": "Difference between the products",
+    "intent": "COMPARISON"
+  },
+  {
+    "text": "Compare the 2 mattresses",
+    "intent": "COMPARISON"
+  },
+  {
+    "text": "Product comparison",
+    "intent": "COMPARISON"
+  },
+  {
+    "text": "Comparison",
+    "intent": "COMPARISON"
+  },
+  {
+    "text": "Which mattress to buy?",
+    "intent": "COMPARISON"
+  },
+  {
+    "text": "Is the mattress good for my back",
+    "intent": "COMPARISON"
+  },
+  {
+    "text": "Mattress comparison",
+    "intent": "COMPARISON"
+  },
+  {
+    "text": "Compare ergo & ortho variants",
+    "intent": "COMPARISON"
+  },
+  {
+    "text": "I wanna know the difference",
+    "intent": "COMPARISON"
+  },
+  {
+    "text": "What is the warranty period?",
+    "intent": "WARRANTY"
+  },
+  {
+    "text": "Warranty",
+    "intent": "WARRANTY"
+  },
+  {
+    "text": "Does mattress cover is included in warranty",
+    "intent": "WARRANTY"
+  },
+  {
+    "text": "How long is the warranty you offer on your mattresses and what does it cover",
+    "intent": "WARRANTY"
+  },
+  {
+    "text": "Do you offer warranty",
+    "intent": "WARRANTY"
+  },
+  {
+    "text": "Tell me about the product warranty",
+    "intent": "WARRANTY"
+  },
+  {
+    "text": "Share warranty information",
+    "intent": "WARRANTY"
+  },
+  {
+    "text": "Need to know the warranty details",
+    "intent": "WARRANTY"
+  },
+  {
+    "text": "Want to know about warranty",
+    "intent": "WARRANTY"
+  },
+  {
+    "text": "would interested in warranty details",
+    "intent": "WARRANTY"
+  },
+  {
+    "text": "How does the 100 night trial work",
+    "intent": "100_NIGHT_TRIAL_OFFER"
+  },
+  {
+    "text": "What is the 100-night offer",
+    "intent": "100_NIGHT_TRIAL_OFFER"
+  },
+  {
+    "text": "Trial details",
+    "intent": "100_NIGHT_TRIAL_OFFER"
+  },
+  {
+    "text": "How to enroll for trial",
+    "intent": "100_NIGHT_TRIAL_OFFER"
+  },
+  {
+    "text": "100 night trial",
+    "intent": "100_NIGHT_TRIAL_OFFER"
+  },
+  {
+    "text": "Is the 100 night return trial applicable for custom size as well",
+    "intent": "100_NIGHT_TRIAL_OFFER"
+  },
+  {
+    "text": "100 night",
+    "intent": "100_NIGHT_TRIAL_OFFER"
+  },
+  {
+    "text": "Trial offer on customisation",
+    "intent": "100_NIGHT_TRIAL_OFFER"
+  },
+  {
+    "text": "do you provide exchange",
+    "intent": "100_NIGHT_TRIAL_OFFER"
+  },
+  {
+    "text": "Can I try a mattress first",
+    "intent": "100_NIGHT_TRIAL_OFFER"
+  },
+  {
+    "text": "I want to check offers",
+    "intent": "100_NIGHT_TRIAL_OFFER"
+  },
+  {
+    "text": "What is 100 Night trial offer",
+    "intent": "100_NIGHT_TRIAL_OFFER"
+  },
+  {
+    "text": "Need 100 days trial",
+    "intent": "100_NIGHT_TRIAL_OFFER"
+  },
+  {
+    "text": "100 days trial",
+    "intent": "100_NIGHT_TRIAL_OFFER"
+  },
+  {
+    "text": "Can I get free trial",
+    "intent": "100_NIGHT_TRIAL_OFFER"
+  },
+  {
+    "text": "100 Nights trial version",
+    "intent": "100_NIGHT_TRIAL_OFFER"
+  },
+  {
+    "text": "Can you give me 100 night trial",
+    "intent": "100_NIGHT_TRIAL_OFFER"
+  },
+  {
+    "text": "100 free Nights",
+    "intent": "100_NIGHT_TRIAL_OFFER"
+  },
+  {
+    "text": "I want to change the size of the mattress.",
+    "intent": "SIZE_CUSTOMIZATION"
+  },
+  {
+    "text": "Need some help in changing size of the mattress",
+    "intent": "SIZE_CUSTOMIZATION"
+  },
+  {
+    "text": "How can I order a custom sized mattress",
+    "intent": "SIZE_CUSTOMIZATION"
+  },
+  {
+    "text": "Custom size",
+    "intent": "SIZE_CUSTOMIZATION"
+  },
+  {
+    "text": "Customise size",
+    "intent": "SIZE_CUSTOMIZATION"
+  },
+  {
+    "text": "Customisation is possible?",
+    "intent": "SIZE_CUSTOMIZATION"
+  },
+  {
+    "text": "Will I get an option to Customise the size",
+    "intent": "SIZE_CUSTOMIZATION"
+  },
+  {
+    "text": "Can mattress size be customised?",
+    "intent": "SIZE_CUSTOMIZATION"
+  },
+  {
+    "text": "Mattress size change",
+    "intent": "SIZE_CUSTOMIZATION"
+  },
+  {
+    "text": "Can you help with the size?",
+    "intent": "WHAT_SIZE_TO_ORDER"
+  },
+  {
+    "text": "How do I know what size to order?",
+    "intent": "WHAT_SIZE_TO_ORDER"
+  },
+  {
+    "text": "How do I know the size of my bed?",
+    "intent": "WHAT_SIZE_TO_ORDER"
+  },
+  {
+    "text": "Inches",
+    "intent": "WHAT_SIZE_TO_ORDER"
+  },
+  {
+    "text": "Length",
+    "intent": "WHAT_SIZE_TO_ORDER"
+  },
+  {
+    "text": "Feet",
+    "intent": "WHAT_SIZE_TO_ORDER"
+  },
+  {
+    "text": "6*3",
+    "intent": "WHAT_SIZE_TO_ORDER"
+  },
+  {
+    "text": "Help me with the size chart",
+    "intent": "WHAT_SIZE_TO_ORDER"
+  },
+  {
+    "text": "What are the available sizes?",
+    "intent": "WHAT_SIZE_TO_ORDER"
+  },
+  {
+    "text": "Can I please have the size chart?",
+    "intent": "WHAT_SIZE_TO_ORDER"
+  },
+  {
+    "text": "Share the size structure",
+    "intent": "WHAT_SIZE_TO_ORDER"
+  },
+  {
+    "text": "What are the sizes available?",
+    "intent": "WHAT_SIZE_TO_ORDER"
+  },
+  {
+    "text": "Want to know the custom size chart",
+    "intent": "WHAT_SIZE_TO_ORDER"
+  },
+  {
+    "text": "Mattress size",
+    "intent": "WHAT_SIZE_TO_ORDER"
+  },
+  {
+    "text": "What size to order?",
+    "intent": "WHAT_SIZE_TO_ORDER"
+  },
+  {
+    "text": "Show me all available sizes",
+    "intent": "WHAT_SIZE_TO_ORDER"
+  },
+  {
+    "text": "What are the sizes",
+    "intent": "WHAT_SIZE_TO_ORDER"
+  },
+  {
+    "text": "What are the available mattress sizes",
+    "intent": "WHAT_SIZE_TO_ORDER"
+  },
+  {
+    "text": "King Size",
+    "intent": "WHAT_SIZE_TO_ORDER"
+  },
+  {
+    "text": "Inches",
+    "intent": "WHAT_SIZE_TO_ORDER"
+  },
+  {
+    "text": "Get in Touch",
+    "intent": "LEAD_GEN"
+  },
+  {
+    "text": "Want to talk to an live agent",
+    "intent": "LEAD_GEN"
+  },
+  {
+    "text": "Please call me",
+    "intent": "LEAD_GEN"
+  },
+  {
+    "text": "Do you have Live agent",
+    "intent": "LEAD_GEN"
+  },
+  {
+    "text": "Want to get in touch",
+    "intent": "LEAD_GEN"
+  },
+  {
+    "text": "Schedule a callback",
+    "intent": "LEAD_GEN"
+  },
+  {
+    "text": "Arrange a call back",
+    "intent": "LEAD_GEN"
+  },
+  {
+    "text": "How to get in touch?",
+    "intent": "LEAD_GEN"
+  },
+  {
+    "text": "Interested in buying",
+    "intent": "LEAD_GEN"
+  },
+  {
+    "text": "I want to buy this",
+    "intent": "LEAD_GEN"
+  },
+  {
+    "text": "How to buy?",
+    "intent": "LEAD_GEN"
+  },
+  {
+    "text": "How to order",
+    "intent": "LEAD_GEN"
+  },
+  {
+    "text": "I want to order",
+    "intent": "LEAD_GEN"
+  },
+  {
+    "text": "Connect to an agent",
+    "intent": "LEAD_GEN"
+  },
+  {
+    "text": "Get In Touch",
+    "intent": "LEAD_GEN"
+  },
+  {
+    "text": "I want a call back",
+    "intent": "LEAD_GEN"
+  },
+  {
+    "text": "I need a call back",
+    "intent": "LEAD_GEN"
+  },
+  {
+    "text": "Please call me back",
+    "intent": "LEAD_GEN"
+  },
+  {
+    "text": "Call me now",
+    "intent": "LEAD_GEN"
+  },
+  {
+    "text": "I want to buy",
+    "intent": "LEAD_GEN"
+  },
+  {
+    "text": "Need a call from your representative",
+    "intent": "LEAD_GEN"
+  },
+  {
+    "text": "Do you deliver to my pincode",
+    "intent": "CHECK_PINCODE"
+  },
+  {
+    "text": "Check pincode",
+    "intent": "CHECK_PINCODE"
+  },
+  {
+    "text": "Is delivery possible on this pincode",
+    "intent": "CHECK_PINCODE"
+  },
+  {
+    "text": "Will you be able to deliver here",
+    "intent": "CHECK_PINCODE"
+  },
+  {
+    "text": "Can you make delivery on this pin code?",
+    "intent": "CHECK_PINCODE"
+  },
+  {
+    "text": "Can you deliver on my pincode",
+    "intent": "CHECK_PINCODE"
+  },
+  {
+    "text": "Do you deliver to",
+    "intent": "CHECK_PINCODE"
+  },
+  {
+    "text": "Can you please deliver on my pincode",
+    "intent": "CHECK_PINCODE"
+  },
+  {
+    "text": "Need a delivery on this pincode",
+    "intent": "CHECK_PINCODE"
+  },
+  {
+    "text": "Can I get delivery on this pincode",
+    "intent": "CHECK_PINCODE"
+  },
+  {
+    "text": "Do you have any showrooms in Delhi state",
+    "intent": "DISTRIBUTORS"
+  },
+  {
+    "text": "Do you have any distributors in Mumbai city",
+    "intent": "DISTRIBUTORS"
+  },
+  {
+    "text": "Do you have any retailers in Pune city",
+    "intent": "DISTRIBUTORS"
+  },
+  {
+    "text": "Where can I see the product before I buy",
+    "intent": "DISTRIBUTORS"
+  },
+  {
+    "text": "What is the price for size (x ft x y ft)? What is the price for size (x inches x y inches)?",
+    "intent": "DISTRIBUTORS"
+  },
+  {
+    "text": "Distributors",
+    "intent": "DISTRIBUTORS"
+  },
+  {
+    "text": "Distributors/Retailers/Showrooms",
+    "intent": "DISTRIBUTORS"
+  },
+  {
+    "text": "Where is your showroom",
+    "intent": "DISTRIBUTORS"
+  },
+  {
+    "text": "Do you have a showroom",
+    "intent": "DISTRIBUTORS"
+  },
+  {
+    "text": "Can I visit SOF mattress showroom",
+    "intent": "DISTRIBUTORS"
+  },
+  {
+    "text": "Where is your showroom",
+    "intent": "DISTRIBUTORS"
+  },
+  {
+    "text": "Nearby Show room",
+    "intent": "DISTRIBUTORS"
+  },
+  {
+    "text": "Do you have Showroom",
+    "intent": "DISTRIBUTORS"
+  },
+  {
+    "text": "Need store",
+    "intent": "DISTRIBUTORS"
+  },
+  {
+    "text": "Need Nearby Store",
+    "intent": "DISTRIBUTORS"
+  },
+  {
+    "text": "Nearest shop",
+    "intent": "DISTRIBUTORS"
+  },
+  {
+    "text": "Demo store",
+    "intent": "DISTRIBUTORS"
+  },
+  {
+    "text": "Is there any offline stores",
+    "intent": "DISTRIBUTORS"
+  },
+  {
+    "text": "Head office",
+    "intent": "DISTRIBUTORS"
+  },
+  {
+    "text": "Shops nearby",
+    "intent": "DISTRIBUTORS"
+  },
+  {
+    "text": "Where was this shop",
+    "intent": "DISTRIBUTORS"
+  },
+  {
+    "text": "Offline stores",
+    "intent": "DISTRIBUTORS"
+  },
+  {
+    "text": "Do you have store",
+    "intent": "DISTRIBUTORS"
+  },
+  {
+    "text": "Where is the shop",
+    "intent": "DISTRIBUTORS"
+  },
+  {
+    "text": "Is it available in shops",
+    "intent": "DISTRIBUTORS"
+  },
+  {
+    "text": "You have any branch",
+    "intent": "DISTRIBUTORS"
+  },
+  {
+    "text": "Store in",
+    "intent": "DISTRIBUTORS"
+  },
+  {
+    "text": "We want dealer ship",
+    "intent": "DISTRIBUTORS"
+  },
+  {
+    "text": "Any shop that I can visit",
+    "intent": "DISTRIBUTORS"
+  },
+  {
+    "text": "Dealership",
+    "intent": "DISTRIBUTORS"
+  },
+  {
+    "text": "Shop near by",
+    "intent": "DISTRIBUTORS"
+  },
+  {
+    "text": "Need dealership",
+    "intent": "DISTRIBUTORS"
+  },
+  {
+    "text": "Outlet",
+    "intent": "DISTRIBUTORS"
+  },
+  {
+    "text": "Store near me",
+    "intent": "DISTRIBUTORS"
+  },
+  {
+    "text": "Price of mattress",
+    "intent": "MATTRESS_COST"
+  },
+  {
+    "text": "Mattress cost",
+    "intent": "MATTRESS_COST"
+  },
+  {
+    "text": "Cost of mattress",
+    "intent": "MATTRESS_COST"
+  },
+  {
+    "text": "How much does a SOF mattress cost",
+    "intent": "MATTRESS_COST"
+  },
+  {
+    "text": "Cost",
+    "intent": "MATTRESS_COST"
+  },
+  {
+    "text": "Custom size cost",
+    "intent": "MATTRESS_COST"
+  },
+  {
+    "text": "What does the mattress cost",
+    "intent": "MATTRESS_COST"
+  },
+  {
+    "text": "I need price",
+    "intent": "MATTRESS_COST"
+  },
+  {
+    "text": "Price Range",
+    "intent": "MATTRESS_COST"
+  },
+  {
+    "text": "Mattress price",
+    "intent": "MATTRESS_COST"
+  },
+  {
+    "text": "Price of Mattress",
+    "intent": "MATTRESS_COST"
+  },
+  {
+    "text": "Want to know the price",
+    "intent": "MATTRESS_COST"
+  },
+  {
+    "text": "How Much Cost",
+    "intent": "MATTRESS_COST"
+  },
+  {
+    "text": "Price",
+    "intent": "MATTRESS_COST"
+  },
+  {
+    "text": "Rate",
+    "intent": "MATTRESS_COST"
+  },
+  {
+    "text": "MRP",
+    "intent": "MATTRESS_COST"
+  },
+  {
+    "text": "Low price",
+    "intent": "MATTRESS_COST"
+  },
+  {
+    "text": "What will be the price",
+    "intent": "MATTRESS_COST"
+  },
+  {
+    "text": "Cost of Bed",
+    "intent": "MATTRESS_COST"
+  },
+  {
+    "text": "Cost of Mattress",
+    "intent": "MATTRESS_COST"
+  },
+  {
+    "text": "Mattress cost",
+    "intent": "MATTRESS_COST"
+  },
+  {
+    "text": "What is the cost",
+    "intent": "MATTRESS_COST"
+  },
+  {
+    "text": "What are the product variants",
+    "intent": "PRODUCT_VARIANTS"
+  },
+  {
+    "text": "Product Variants",
+    "intent": "PRODUCT_VARIANTS"
+  },
+  {
+    "text": "Help me with different products",
+    "intent": "PRODUCT_VARIANTS"
+  },
+  {
+    "text": "What are the mattress variants",
+    "intent": "PRODUCT_VARIANTS"
+  },
+  {
+    "text": "I want to check products",
+    "intent": "PRODUCT_VARIANTS"
+  },
+  {
+    "text": "What are the SOF mattress products",
+    "intent": "PRODUCT_VARIANTS"
+  },
+  {
+    "text": "Show me products",
+    "intent": "PRODUCT_VARIANTS"
+  },
+  {
+    "text": "Which product is best",
+    "intent": "PRODUCT_VARIANTS"
+  },
+  {
+    "text": "Which mattress is best",
+    "intent": "PRODUCT_VARIANTS"
+  },
+  {
+    "text": "I want to buy a mattress",
+    "intent": "PRODUCT_VARIANTS"
+  },
+  {
+    "text": "Products",
+    "intent": "PRODUCT_VARIANTS"
+  },
+  {
+    "text": "View products",
+    "intent": "PRODUCT_VARIANTS"
+  },
+  {
+    "text": "Type of foam used",
+    "intent": "PRODUCT_VARIANTS"
+  },
+  {
+    "text": "Mattress variants",
+    "intent": "PRODUCT_VARIANTS"
+  },
+  {
+    "text": "Mattress Features",
+    "intent": "PRODUCT_VARIANTS"
+  },
+  {
+    "text": "I am looking the mattress",
+    "intent": "PRODUCT_VARIANTS"
+  },
+  {
+    "text": "Type of mattress",
+    "intent": "PRODUCT_VARIANTS"
+  },
+  {
+    "text": "Show more mattress",
+    "intent": "PRODUCT_VARIANTS"
+  },
+  {
+    "text": "What are the mattress features",
+    "intent": "PRODUCT_VARIANTS"
+  },
+  {
+    "text": "What are your products",
+    "intent": "PRODUCT_VARIANTS"
+  },
+  {
+    "text": "Tell me about SOF mattress features",
+    "intent": "PRODUCT_VARIANTS"
+  },
+  {
+    "text": "How is SOF different from other mattress brands",
+    "intent": "ABOUT_SOF_MATTRESS"
+  },
+  {
+    "text": "Why SOF mattress",
+    "intent": "ABOUT_SOF_MATTRESS"
+  },
+  {
+    "text": "About SOF Mattress",
+    "intent": "ABOUT_SOF_MATTRESS"
+  },
+  {
+    "text": "What is SOF mattress",
+    "intent": "ABOUT_SOF_MATTRESS"
+  },
+  {
+    "text": "Tell me about SOF mattresses",
+    "intent": "ABOUT_SOF_MATTRESS"
+  },
+  {
+    "text": "Who are SOF mattress",
+    "intent": "ABOUT_SOF_MATTRESS"
+  },
+  {
+    "text": "What is SOF",
+    "intent": "ABOUT_SOF_MATTRESS"
+  },
+  {
+    "text": "How is SOF mattress different from",
+    "intent": "ABOUT_SOF_MATTRESS"
+  },
+  {
+    "text": "Tell me about SOF Mattress",
+    "intent": "ABOUT_SOF_MATTRESS"
+  },
+  {
+    "text": "Tell me about company",
+    "intent": "ABOUT_SOF_MATTRESS"
+  },
+  {
+    "text": "Who is SOF mattress",
+    "intent": "ABOUT_SOF_MATTRESS"
+  },
+  {
+    "text": "It's been a month",
+    "intent": "DELAY_IN_DELIVERY"
+  },
+  {
+    "text": "Why so long?",
+    "intent": "DELAY_IN_DELIVERY"
+  },
+  {
+    "text": "I did not receive my order yet",
+    "intent": "DELAY_IN_DELIVERY"
+  },
+  {
+    "text": "Why so many days",
+    "intent": "DELAY_IN_DELIVERY"
+  },
+  {
+    "text": "It's delayed",
+    "intent": "DELAY_IN_DELIVERY"
+  },
+  {
+    "text": "Almost 1 month over",
+    "intent": "DELAY_IN_DELIVERY"
+  },
+  {
+    "text": "It's been 30 days my product haven't received",
+    "intent": "DELAY_IN_DELIVERY"
+  },
+  {
+    "text": "It's been so many days",
+    "intent": "DELAY_IN_DELIVERY"
+  },
+  {
+    "text": "It's already one month",
+    "intent": "DELAY_IN_DELIVERY"
+  },
+  {
+    "text": "Delivery is delayed",
+    "intent": "DELAY_IN_DELIVERY"
+  },
+  {
+    "text": "It's too late to get delivered",
+    "intent": "DELAY_IN_DELIVERY"
+  },
+  {
+    "text": "Order Status",
+    "intent": "ORDER_STATUS"
+  },
+  {
+    "text": "What is my order status?",
+    "intent": "ORDER_STATUS"
+  },
+  {
+    "text": "Order related",
+    "intent": "ORDER_STATUS"
+  },
+  {
+    "text": "Status of my order",
+    "intent": "ORDER_STATUS"
+  },
+  {
+    "text": "What about my order",
+    "intent": "ORDER_STATUS"
+  },
+  {
+    "text": "My order Number",
+    "intent": "ORDER_STATUS"
+  },
+  {
+    "text": "Where is my order",
+    "intent": "ORDER_STATUS"
+  },
+  {
+    "text": "Order #",
+    "intent": "ORDER_STATUS"
+  },
+  {
+    "text": "Track order",
+    "intent": "ORDER_STATUS"
+  },
+  {
+    "text": "I want updates of my order",
+    "intent": "ORDER_STATUS"
+  },
+  {
+    "text": "I need my order status",
+    "intent": "ORDER_STATUS"
+  },
+  {
+    "text": "Status of my order",
+    "intent": "ORDER_STATUS"
+  },
+  {
+    "text": "State of this order",
+    "intent": "ORDER_STATUS"
+  },
+  {
+    "text": "Order status",
+    "intent": "ORDER_STATUS"
+  },
+  {
+    "text": "Present status",
+    "intent": "ORDER_STATUS"
+  },
+  {
+    "text": "What is the status?",
+    "intent": "ORDER_STATUS"
+  },
+  {
+    "text": "Current state of my order",
+    "intent": "ORDER_STATUS"
+  },
+  {
+    "text": "What is the order status?",
+    "intent": "ORDER_STATUS"
+  },
+  {
+    "text": "Where is my product",
+    "intent": "ORDER_STATUS"
+  },
+  {
+    "text": "When will the order be delivered to me?",
+    "intent": "ORDER_STATUS"
+  },
+  {
+    "text": "When can we expect",
+    "intent": "ORDER_STATUS"
+  },
+  {
+    "text": "Need my money back",
+    "intent": "RETURN_EXCHANGE"
+  },
+  {
+    "text": "I want refund",
+    "intent": "RETURN_EXCHANGE"
+  },
+  {
+    "text": "Refund",
+    "intent": "RETURN_EXCHANGE"
+  },
+  {
+    "text": "Not happy with the product please help me to return",
+    "intent": "RETURN_EXCHANGE"
+  },
+  {
+    "text": "Help me with exchange process",
+    "intent": "RETURN_EXCHANGE"
+  },
+  {
+    "text": "How do I return it",
+    "intent": "RETURN_EXCHANGE"
+  },
+  {
+    "text": "I want to return my mattress",
+    "intent": "RETURN_EXCHANGE"
+  },
+  {
+    "text": "Exchange",
+    "intent": "RETURN_EXCHANGE"
+  },
+  {
+    "text": "Looking to exchange",
+    "intent": "RETURN_EXCHANGE"
+  },
+  {
+    "text": "How can I replace the mattress.",
+    "intent": "RETURN_EXCHANGE"
+  },
+  {
+    "text": "How do I return It",
+    "intent": "RETURN_EXCHANGE"
+  },
+  {
+    "text": "Return",
+    "intent": "RETURN_EXCHANGE"
+  },
+  {
+    "text": "Return my product",
+    "intent": "RETURN_EXCHANGE"
+  },
+  {
+    "text": "Replacement policy",
+    "intent": "RETURN_EXCHANGE"
+  },
+  {
+    "text": "I want to cancel my order",
+    "intent": "CANCEL_ORDER"
+  },
+  {
+    "text": "How can I cancel my order",
+    "intent": "CANCEL_ORDER"
+  },
+  {
+    "text": "Cancel order",
+    "intent": "CANCEL_ORDER"
+  },
+  {
+    "text": "Cancellation status",
+    "intent": "CANCEL_ORDER"
+  },
+  {
+    "text": "I want cancel my order",
+    "intent": "CANCEL_ORDER"
+  },
+  {
+    "text": "Cancel the order",
+    "intent": "CANCEL_ORDER"
+  },
+  {
+    "text": "Cancel my order",
+    "intent": "CANCEL_ORDER"
+  },
+  {
+    "text": "Need to cancel my order",
+    "intent": "CANCEL_ORDER"
+  },
+  {
+    "text": "Process of cancelling order",
+    "intent": "CANCEL_ORDER"
+  },
+  {
+    "text": "Can I cancel my order here",
+    "intent": "CANCEL_ORDER"
+  },
+  {
+    "text": "Can I get pillows?",
+    "intent": "PILLOWS"
+  },
+  {
+    "text": "Do you sell pillows?",
+    "intent": "PILLOWS"
+  },
+  {
+    "text": "Pillows",
+    "intent": "PILLOWS"
+  },
+  {
+    "text": "I want to buy pillows",
+    "intent": "PILLOWS"
+  },
+  {
+    "text": "Are Pillows available",
+    "intent": "PILLOWS"
+  },
+  {
+    "text": "Need pair of Pillows",
+    "intent": "PILLOWS"
+  },
+  {
+    "text": "Can I buy pillows from here",
+    "intent": "PILLOWS"
+  },
+  {
+    "text": "Do you have cushions",
+    "intent": "PILLOWS"
+  },
+  {
+    "text": "Can I also have pillows",
+    "intent": "PILLOWS"
+  },
+  {
+    "text": "Is pillows available",
+    "intent": "PILLOWS"
+  },
+  {
+    "text": "Offers",
+    "intent": "OFFERS"
+  },
+  {
+    "text": "What are the available offers",
+    "intent": "OFFERS"
+  },
+  {
+    "text": "Give me some discount",
+    "intent": "OFFERS"
+  },
+  {
+    "text": "Any discounts",
+    "intent": "OFFERS"
+  },
+  {
+    "text": "Discount",
+    "intent": "OFFERS"
+  },
+  {
+    "text": "May I please know about the offers",
+    "intent": "OFFERS"
+  },
+  {
+    "text": "Available offers",
+    "intent": "OFFERS"
+  },
+  {
+    "text": "Is offer available",
+    "intent": "OFFERS"
+  },
+  {
+    "text": "Want to know the discount",
+    "intent": "OFFERS"
+  },
+  {
+    "text": "Tell me about the latest offers",
+    "intent": "OFFERS"
+  }
+]
