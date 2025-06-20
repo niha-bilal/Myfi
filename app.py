@@ -5,7 +5,7 @@ import pandas as pd
 from transformers import BertTokenizer, BertForSequenceClassification
 import os
 import requests
-from langchain.llms import Ollama
+from langchain_community.llms import Ollama
 from langdetect import detect
 
 # === LangChain Tracing Config ===
@@ -38,9 +38,13 @@ def build_phi2_prompt(user_text):
 # === Helper: Detect Language ===
 def detect_language(text):
     try:
-        return detect(text)
+        lang = detect(text)
+        if lang == "en" and any(word in text.lower() for word in ["kya", "tum", "hai", "mera", "muze", "nahi", "kaise"]):
+            return "hi"  # Treat Hinglish as Hindi
+        return lang
     except Exception:
         return "en"
+
 
 # === Classifier: BERT ===
 def classify_with_bert(text):
@@ -94,16 +98,29 @@ def chatbot(user_msg, history):
     return history, bert_intent, phi_intent, history
 
 # === Gradio UI ===
+# === Gradio UI ===
 with gr.Blocks(theme=gr.themes.Soft()) as demo:
     gr.Markdown("## 🧠 SOF Intent Detection + Response Generator\nUsing BERT & LLaMA3.2 via Ollama")
 
     chat_ui = gr.Chatbot(label="💬 Chat", type="messages", show_copy_button=True)
-    user_input = gr.Textbox(label="Type your message", placeholder="Ask about EMI, COD, mattress features...", lines=2)
+    with gr.Row():
+        user_input = gr.Textbox(
+            label="Type your message",
+            placeholder="Ask about EMI, COD, mattress features...",
+            lines=2,
+            elem_id="user-input",
+            container=True
+        )
+        send_btn = gr.Button("Send")
+
     intent_bert = gr.Textbox(label="🎯 Intent (BERT)", interactive=False)
     intent_phi = gr.Textbox(label="🔮 Intent (LLaMA 3.2)", interactive=False)
     state = gr.State([])
 
-    with gr.Row():
-        user_input.submit(fn=chatbot, inputs=[user_input, state], outputs=[chat_ui, intent_bert, intent_phi, state])
+    # Bind both Enter and button to same chatbot function
+    user_input.submit(fn=chatbot, inputs=[user_input, state], outputs=[chat_ui, intent_bert, intent_phi, state])
+    send_btn.click(fn=chatbot, inputs=[user_input, state], outputs=[chat_ui, intent_bert, intent_phi, state])
 
-demo.launch()
+    gr.Markdown("Built with Gradio · Powered by Ollama")
+
+    demo.launch(share=True)
